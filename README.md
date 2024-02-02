@@ -23,7 +23,7 @@ This e-commerce app can run both Andriod and iOS devices because it builds with 
 
 * Sign Up
 
-* Home Page
+* Home Page*
 
 * Product Details
 
